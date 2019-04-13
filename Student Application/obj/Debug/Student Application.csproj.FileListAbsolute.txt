@@ -1,0 +1,25 @@
+c:\users\user\documents\visual studio 2015\Projects\Student Application\Student Application\bin\Debug\Student Application.exe
+c:\users\user\documents\visual studio 2015\Projects\Student Application\Student Application\bin\Debug\Student Application.pdb
+c:\users\user\documents\visual studio 2015\Projects\Student Application\Student Application\obj\Debug\Student Application.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Student Application\Student Application\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2015\Projects\Student Application\Student Application\obj\Debug\Student Application_MarkupCompile.cache
+c:\users\user\documents\visual studio 2015\Projects\Student Application\Student Application\obj\Debug\Student Application_MarkupCompile.lref
+c:\users\user\documents\visual studio 2015\Projects\Student Application\Student Application\obj\Debug\Student Application.g.resources
+c:\users\user\documents\visual studio 2015\Projects\Student Application\Student Application\obj\Debug\Student_Application.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Student Application\Student Application\obj\Debug\Student Application.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Student Application\Student Application\obj\Debug\Student Application.exe
+c:\users\user\documents\visual studio 2015\Projects\Student Application\Student Application\obj\Debug\Student Application.pdb
+c:\users\user\documents\visual studio 2015\Projects\Student Application\Student Application\bin\Debug\SIS.mdf
+c:\users\user\documents\visual studio 2015\Projects\Student Application\Student Application\bin\Debug\SIS_log.ldf
+c:\users\user\documents\visual studio 2015\Projects\Student Application\Student Application\obj\Debug\Student Application_Content.g.cs
+C:\Users\user\documents\visual studio 2015\Projects\Student Application\Student Application\obj\Debug\Login Page.g.cs
+C:\Users\user\documents\visual studio 2015\Projects\Student Application\Student Application\obj\Debug\Login Page.baml
+C:\Users\user\documents\visual studio 2015\Projects\Student Application\Student Application\obj\Debug\Student_Application.Admin.resources
+C:\Users\user\documents\visual studio 2015\Projects\Student Application\Student Application\obj\Debug\Student_Application.Student_Information_Application.resources
+C:\Users\user\documents\visual studio 2015\Projects\Student Application\Student Application\bin\Debug\Student Application.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Student Application\Student Application\obj\Debug\Student_Application.Register_New_Student.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Student Application\Student Application\obj\Debug\Student_Application.IIC.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Student Application\Student Application\bin\Debug\en-GB\Student Application.resources.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Student Application\Student Application\obj\Debug\Student_Application.Student_Information_Application.en-GB.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Student Application\Student Application\obj\Debug\en-GB\Student Application.resources.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Student Application\Student Application\obj\Debug\Student_Application.High_School_Info.resources
